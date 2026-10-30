@@ -30,3 +30,7 @@ else
   echo "✅ No hardcoded secrets detected. Safe to proceed."
   exit 0
 fi
+
+
+
+TODO: Add support for GitLab CI variables
